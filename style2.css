@@ -75,9 +75,11 @@ strong{
 }
 
 #navegador{
+	width: 100%;
+	font-size: 25px;
+	padding: 10px;
 	float: left;
-
-
+	display: flex;
 }
 
 #navegador a{
